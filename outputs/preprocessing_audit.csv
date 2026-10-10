@@ -1,0 +1,4 @@
+step,fitted_on,detail
+imputer,fit partition (192 rows),median of 4 numeric cols
+encoder,fit partition (192 rows),"one-hot group, handle_unknown=ignore"
+scaler,fit partition (192 rows),StandardScaler on 5 numeric cols

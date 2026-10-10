@@ -1,0 +1,26 @@
+{
+  "raw_shape": [
+    305,
+    7
+  ],
+  "exact_duplicates": 5,
+  "missing_counts": {
+    "record_id": 0,
+    "visits": 16,
+    "recency": 15,
+    "engagement": 0,
+    "spend": 0,
+    "group": 0,
+    "response": 0
+  },
+  "target_counts_raw": {
+    "1": 177,
+    "0": 128
+  },
+  "clean_unique_records": 300,
+  "sizes": {
+    "fit": 192,
+    "validation": 48,
+    "test": 60
+  }
+}
